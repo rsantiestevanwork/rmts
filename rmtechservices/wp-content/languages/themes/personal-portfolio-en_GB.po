@@ -1,0 +1,830 @@
+# Translation of Personal Portfolio in English (UK)
+# This file is distributed under the same license as the Personal Portfolio package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-07-14 11:07:13+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Personal Portfolio\n"
+
+#. Description of the plugin/theme
+msgid "Personal Portfolio is a beautifully designed responsive WordPress theme for your personal website, designer, photographer, web designer, illustrator, graphic designer, creative business, artist, art director, creative professionals, online store and other similar websites. This responsive theme comes with home page image slider, services, projects, testimonials, customers section. It supports and comes with custom widgets, drop-down menus, background image slideshows, custom CSS, contact info, primary color option, social media icons and lots of other useful features. Supported plugins: WooCommerce, WP-PageNavi, Breadcrumb NavXT. Supported languages: Albanian (Shqip), Arabic (العربية), Azerbaijani (Azərbaycan dili), Basque (Euskara), Bengali (বাংলা), Bosnian (Bosanski), Bulgarian (Български), Catalan (Català), Chinese (China) (简体中文), Chinese (Taiwan) (繁體中文), Croatian (Hrvatski), Danish (Dansk), Dutch (Nederlands), Esperanto (Esperanto), Estonian (Eesti), Finnish (Suomi), French (Canada) (Français du Canada), French (France) (Français), Galician (Galego), German (Deutsch), German (Switzerland) (Deutsch (Schweiz)), Greek (Ελληνικά), Hebrew (עִבְרִית), Hungarian (Magyar), Icelandic (Íslenska), Indonesian (Bahasa Indonesia), Italian (Italiano), Japanese (日本語), Korean (한국어), Lithuanian (Lietuvių kalba), Norwegian (Bokmål) (Norsk bokmål), Norwegian (Nynorsk) (Norsk nynorsk), Persian (فارسی), Polish (Polski), Portuguese (Brazil) (Português do Brasil), Portuguese (Portugal) (Português), Romanian (Română), Russian (Русский), Serbian (Српски језик), Slovak (Slovenčina), Slovenian (Slovenščina), Spanish (Mexico) (Español de México), Spanish (Peru) (Español de Perú), Spanish (Spain) (Español), Tagalog (Tagalog), Thai (ไทย), Turkish (Türkçe), Ukrainian (Українська), Welsh (Cymraeg)"
+msgstr "Personal Portfolio is a beautifully-designed responsive WordPress theme for your personal website, designer, photographer, web designer, illustrator, graphic designer, creative business, artist, art director, creative professionals, online store and other similar websites. This responsive theme comes with home page image slider, services, projects, testimonials, and customers section. It supports and comes with custom widgets, drop-down menus, background image slideshows, custom CSS, contact info, primary colour option, social media icons and lots of other useful features. Supported plugins: WooCommerce, WP-PageNavi, Breadcrumb NavXT. Supported languages: Albanian (Shqip), Arabic (العربية), Azerbaijani (Azərbaycan dili), Basque (Euskara), Bengali (বাংলা), Bosnian (Bosanski), Bulgarian (Български), Catalan (Català), Chinese (China) (简体中文), Chinese (Taiwan) (繁體中文), Croatian (Hrvatski), Danish (Dansk), Dutch (Nederlands), Esperanto (Esperanto), Estonian (Eesti), Finnish (Suomi), French (Canada) (Français du Canada), French (France) (Français), Galician (Galego), German (Deutsch), German (Switzerland) (Deutsch (Schweiz)), Greek (Ελληνικά), Hebrew (עִבְרִית), Hungarian (Magyar), Icelandic (Íslenska), Indonesian (Bahasa Indonesia), Italian (Italiano), Japanese (日本語), Korean (한국어), Lithuanian (Lietuvių kalba), Norwegian (Bokmål) (Norsk bokmål), Norwegian (Nynorsk) (Norsk nynorsk), Persian (فارسی), Polish (Polski), Portuguese (Brazil) (Português do Brasil), Portuguese (Portugal) (Português), Romanian (Română), Russian (Русский), Serbian (Српски језик), Slovak (Slovenčina), Slovenian (Slovenščina), Spanish (Mexico) (Español de México), Spanish (Peru) (Español de Perú), Spanish (Spain) (Español), Tagalog (Tagalog), Thai (ไทย), Turkish (Türkçe), Ukrainian (Українська), Welsh (Cymraeg)"
+
+#. Theme Name of the plugin/theme
+msgid "Personal Portfolio"
+msgstr "Personal Portfolio"
+
+#: header.php:64
+msgid "Close"
+msgstr "Close"
+
+#: inc/admin/custom-controls.php:18 inc/admin/custom-controls.php:41
+#: inc/admin/custom-controls.php:63
+msgid "Free&nbsp;Upgrade"
+msgstr "Free&nbsp;Upgrade"
+
+#: inc/options-config.php:162
+msgid "Button"
+msgstr "Button"
+
+#: inc/template-tags.php:231
+msgid "Next"
+msgstr "Next"
+
+#: inc/options-config.php:948
+msgid "Custom CSS Styles"
+msgstr "Custom CSS Styles"
+
+#: inc/template-tags.php:230
+msgid "Previous"
+msgstr "Previous"
+
+#: inc/options-config.php:871
+msgid "Customers"
+msgstr "Customers"
+
+#: inc/options-config.php:875
+msgid "Call to Action"
+msgstr "Call to Action"
+
+#: inc/options-config.php:885
+msgid "Show Sitewide"
+msgstr "Show Site-wide"
+
+#: inc/options-config.php:892 inc/options-config.php:920
+#: inc/template-tags.php:285 inc/template-tags.php:290
+msgid "Hello, World!"
+msgstr "Hello, World!"
+
+#: inc/options-config.php:919
+msgid "Text"
+msgstr "Text"
+
+#: inc/options-config.php:860
+msgid "Submit label"
+msgstr "Submit label"
+
+#: inc/options-config.php:867
+msgid "Testimonials"
+msgstr "Testimonials"
+
+#: inc/options-config.php:854
+msgid "Other Notes"
+msgstr "Other Notes"
+
+#: inc/options-config.php:840
+msgid "Social Media"
+msgstr "Social Media"
+
+#: inc/options-config.php:848
+msgid "Notes"
+msgstr "Notes"
+
+#: inc/options-config.php:818
+msgid "Metadata"
+msgstr "Metadata"
+
+#: inc/options-config.php:795
+msgid "Posts"
+msgstr "Posts"
+
+#: inc/options-config.php:790
+msgid "Border color"
+msgstr "Border colour"
+
+#: inc/options-config.php:755 inc/options-config.php:777
+#: inc/options-config.php:805
+msgid "Font Sizes"
+msgstr "Font Sizes"
+
+#: inc/options-config.php:766 inc/options-config.php:910
+msgid "Custom Background"
+msgstr "Custom Background"
+
+#: inc/options-config.php:749 inc/options-config.php:771
+#: inc/options-config.php:799
+msgid "Font Family"
+msgstr "Font Family"
+
+#: inc/options-config.php:743
+msgid "Pink"
+msgstr "Pink"
+
+#: inc/options-config.php:741
+msgid "Purple"
+msgstr "Purple"
+
+#: inc/options-config.php:742
+msgid "Silver"
+msgstr "Silver"
+
+#: inc/options-config.php:740
+msgid "Yellow"
+msgstr "Yellow"
+
+#: inc/options-config.php:739
+msgid "Tan"
+msgstr "Tan"
+
+#: inc/options-config.php:737
+msgid "Brown"
+msgstr "Brown"
+
+#: inc/options-config.php:715
+msgid "Styles"
+msgstr "Styles"
+
+#: inc/options-config.php:731
+msgid "Gray"
+msgstr "Grey"
+
+#: inc/options-config.php:707
+msgid "Tags"
+msgstr "Tag"
+
+#: inc/options-config.php:701
+msgid "Categories"
+msgstr "Categories"
+
+#: inc/options-config.php:695
+msgid "Display item author if available?"
+msgstr "Display item author if available?"
+
+#: inc/options-config.php:683
+msgid "Featured Image Header"
+msgstr "Featured Image Header"
+
+#: inc/options-config.php:689
+msgid "Display post date?"
+msgstr "Display post date?"
+
+#: inc/options-config.php:669
+msgid "Align Right"
+msgstr "Align right"
+
+#: inc/options-config.php:673
+msgid "A search form for your site."
+msgstr "A search form for your site."
+
+#: inc/options-config.php:667
+msgid "Align Left"
+msgstr "Align left"
+
+#: inc/options-config.php:668
+msgid "Align Center"
+msgstr "Align Centre"
+
+#: inc/options-config.php:664
+msgid "Alignment"
+msgstr "Alignment"
+
+#: inc/options-config.php:642
+msgid "Set the excerpt length (in number of words)"
+msgstr "Set the excerpt length (in number of words)"
+
+#: inc/options-config.php:664
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/options-config.php:635
+msgid "Full text"
+msgstr "Full text"
+
+#: inc/options-config.php:149 inc/options-config.php:636
+msgid "Summary"
+msgstr "Summary"
+
+#: inc/options-config.php:627
+msgid "Front page"
+msgstr "Front page"
+
+#: inc/options-config.php:611 inc/options-config.php:616
+#: inc/options-config.php:620 inc/options-config.php:795
+msgid "Content"
+msgstr "Content"
+
+#: inc/options-config.php:609 inc/options-config.php:613
+#: inc/options-config.php:617
+msgid "Three Columns"
+msgstr "Three Columns"
+
+#: inc/options-config.php:607 inc/options-config.php:608
+msgid "Two Columns"
+msgstr "Two Columns"
+
+#: inc/options-config.php:607 inc/options-config.php:612
+#: inc/options-config.php:614 inc/options-config.php:619
+msgid "Right Sidebar"
+msgstr "Right Sidebar"
+
+#: inc/options-config.php:606
+msgid "One Column"
+msgstr "One Column"
+
+#: inc/options-config.php:604
+msgid "Asides"
+msgstr "Asides"
+
+#: inc/options-config.php:604 inc/options-config.php:633
+msgid "Layout"
+msgstr "Layout"
+
+#: inc/options-config.php:579
+msgid "When moving mouse over link"
+msgstr "When moving mouse over link"
+
+#: inc/options-config.php:589
+msgid "Map embed code"
+msgstr "Map embed code"
+
+#: inc/options-config.php:596
+msgid "Display Settings"
+msgstr "Display Settings"
+
+#: inc/options-config.php:523 inc/options-config.php:535
+#: inc/options-config.php:547 inc/options-config.php:925
+msgid "Custom URL"
+msgstr "Custom URL"
+
+#: inc/options-config.php:563
+msgid "Footer"
+msgstr "Footer"
+
+#: inc/options-config.php:513
+msgid "Contact Info"
+msgstr "Contact Info"
+
+#: inc/options-config.php:479
+msgid "Open link in a new window/tab"
+msgstr "Open link in a new window/tab"
+
+#: inc/options-config.php:474
+msgid "Enter the URL"
+msgstr "Enter the URL"
+
+#: inc/options-config.php:394 inc/options-config.php:396
+msgid "Overlays"
+msgstr "Overlays"
+
+#: inc/options-config.php:401
+msgid "Transitions"
+msgstr "Transitions"
+
+#: inc/options-config.php:425
+msgid "Add social media icons in Header"
+msgstr "Add social media icons in Header"
+
+#: inc/options-config.php:431
+msgid "Add social media icons in Footer"
+msgstr "Add social media icons in Footer"
+
+#: inc/options-config.php:437
+msgid "Size"
+msgstr "Size"
+
+#: inc/options-config.php:365
+msgid "Author"
+msgstr "Author"
+
+#: inc/options-config.php:363
+msgid "Matt Mullenweg"
+msgstr "Matt Mullenweg"
+
+#: inc/options-config.php:270 inc/options-config.php:736
+msgid "White"
+msgstr "White"
+
+#: inc/options-config.php:270 inc/options-config.php:735
+msgid "Black"
+msgstr "Black"
+
+#: inc/options-config.php:149 inc/options-config.php:162
+#: inc/options-config.php:240 inc/options-config.php:246
+#: inc/options-config.php:252 inc/options-config.php:311
+#: inc/options-config.php:365 inc/options-config.php:371
+msgid "Optional"
+msgstr "Optional"
+
+#: inc/options-config.php:186 inc/options-config.php:932
+msgid "Background color"
+msgstr "Background colour"
+
+#: inc/options-config.php:168 inc/options-config.php:232
+#: inc/options-config.php:357
+msgid "Featured Image"
+msgstr "Featured Image"
+
+#: inc/options-config.php:156 inc/options-config.php:252
+#: inc/options-config.php:311 inc/options-config.php:371
+#: inc/options-config.php:456
+msgid "Custom Link"
+msgstr "Custom Link"
+
+#: inc/options-config.php:142 inc/options-config.php:168
+#: inc/options-config.php:232 inc/options-config.php:357
+msgid "(required)"
+msgstr "(required)"
+
+#: inc/options-config.php:142 inc/options-config.php:232
+#: inc/options-config.php:357
+msgid "Select Page"
+msgstr "Select Page"
+
+#: inc/options-config.php:127 inc/options-config.php:444
+msgid "Hide"
+msgstr "Hide"
+
+#: inc/admin/custom-controls.php:115
+msgid "More Themes"
+msgstr "More Themes"
+
+#: inc/options-config.php:25
+msgid "Effect"
+msgstr "Effect"
+
+#: inc/options-config.php:32
+msgid "Animation speed"
+msgstr "Animation speed"
+
+#: inc/options-config.php:117 inc/options-config.php:180
+#: inc/options-config.php:573 inc/options-config.php:579
+#: inc/options-config.php:784 inc/options-config.php:812
+#: inc/options-config.php:904
+msgid "Text color"
+msgstr "Text colour"
+
+#: inc/admin/custom-controls.php:13
+msgid "Select Color"
+msgstr "Select Colour"
+
+#: functions.php:135
+msgid "Left"
+msgstr "Left"
+
+#: functions.php:121
+msgid "Right"
+msgstr "Right"
+
+#: comments.php:82
+msgid "Your email address will not be published."
+msgstr "Your email address will not be published."
+
+#: comments.php:27 inc/options-config.php:844
+msgid "Comments"
+msgstr "Comments"
+
+#. Template Name of the plugin/theme
+msgid "Only Content"
+msgstr "Only Content"
+
+#. Template Name of the plugin/theme
+msgid "No Sidebar"
+msgstr "No Sidebar"
+
+#. #-#-#-#-#  personal-portfolio.pot (Personal Portfolio 1.07)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: inc/options-config.php:608 inc/options-config.php:610
+#: inc/options-config.php:615 inc/options-config.php:618
+msgid "Left Sidebar"
+msgstr "Left Sidebar"
+
+#: inc/options-config.php:942
+msgid "Reset all theme settings to default. Refresh the page after save to view full effects."
+msgstr "Reset all theme settings to default. Refresh the page after save to view the full effects."
+
+#: inc/options-config.php:729
+msgid "Base Color Scheme"
+msgstr "Base Color Scheme"
+
+#: inc/options-config.php:938
+msgid "Advanced Options"
+msgstr "Advanced Options"
+
+#: inc/options-config.php:541 inc/options-config.php:547
+msgid "Phone"
+msgstr "Phone"
+
+#: inc/options-config.php:43 inc/options-config.php:387
+msgid "Speed"
+msgstr "Speed"
+
+#: inc/options-config.php:659
+msgid "Logo Upload"
+msgstr "Logo Upload"
+
+#: inc/admin/custom-controls.php:111
+msgid "Reviews"
+msgstr "Reviews"
+
+#: inc/admin/custom-controls.php:113
+msgid "Documentation"
+msgstr "Documentation"
+
+#: inc/admin/custom-controls.php:111
+msgid "Feedback"
+msgstr "Feedback"
+
+#: inc/admin/custom-controls.php:105
+msgid "More options &amp; features now available."
+msgstr "More options &amp; features now available."
+
+#: inc/admin/custom-controls.php:107
+msgid "Donate"
+msgstr "Donate"
+
+#: inc/admin/custom-controls.php:109
+msgid "Support Forums"
+msgstr "Support Forums"
+
+#. translators: %s: Name of current post
+#: content-blog.php:29 content.php:28 inc/options-config.php:648
+#: inc/options-config.php:649
+msgid "Read more..."
+msgstr "Read more..."
+
+#: inc/options-config.php:955
+msgid "Upgrade"
+msgstr "Upgrade"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "It looks like nothing was found at this location. Maybe try a search?"
+
+#: inc/options-config.php:628 searchform.php:9
+msgid "Search"
+msgstr "Search"
+
+#: searchform.php:8
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Search &hellip;"
+
+#: inc/template-tags.php:311
+msgid "%1$s by %2$s."
+msgstr "%1$s by %2$s."
+
+#: inc/template-tags.php:312
+msgid "Personal Portfolio WordPress Theme"
+msgstr "Personal Portfolio WordPress Theme"
+
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#: inc/template-tags.php:306
+msgid "Copyright &copy; %1$d %2$s."
+msgstr "Copyright &copy; %1$d %2$s."
+
+#: inc/template-tags.php:308
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: inc/template-tags.php:250
+msgid "Older posts"
+msgstr "Older posts"
+
+#: inc/template-tags.php:254
+msgid "Newer posts"
+msgstr "Newer posts"
+
+#: inc/template-tags.php:244
+msgid "Page"
+msgstr "Page"
+
+#: inc/template-tags.php:213
+msgid "Your comment is awaiting moderation."
+msgstr "Your comment is awaiting moderation."
+
+#: inc/template-tags.php:209
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: inc/template-tags.php:197
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/options-config.php:629 inc/template-tags.php:111
+msgid "Archives"
+msgstr "Archives"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:109
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:102
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Chats"
+
+#: inc/template-tags.php:105
+msgid "Archives: %s"
+msgstr "Archives: %s"
+
+#: inc/template-tags.php:100
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: inc/template-tags.php:98
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Statuses"
+
+#: inc/template-tags.php:96
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Links"
+
+#: inc/template-tags.php:94
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Quotes"
+
+#: inc/template-tags.php:90
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Images"
+
+#: inc/template-tags.php:92
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Videos"
+
+#: inc/template-tags.php:88
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galleries"
+
+#: inc/template-tags.php:83
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/template-tags.php:86
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Asides"
+
+#: inc/template-tags.php:83
+msgid "Day: %s"
+msgstr "Day: %s"
+
+#: inc/template-tags.php:81
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:81
+msgid "Month: %s"
+msgstr "Month: %s"
+
+#: inc/template-tags.php:79
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:79
+msgid "Year: %s"
+msgstr "Year: %s"
+
+#: inc/template-tags.php:75
+msgid "Tag: %s"
+msgstr "Tag: %s"
+
+#: inc/template-tags.php:77
+msgid "Author: %s"
+msgstr "Author: %s"
+
+#: inc/template-tags.php:73
+msgid "Category: %s"
+msgstr "Category: %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:56 inc/template-tags.php:62
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:48
+msgid "Featured"
+msgstr "Featured"
+
+#: inc/template-tags.php:37
+msgid "% Comments"
+msgstr "% Comments"
+
+#: inc/template-tags.php:37
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: inc/template-tags.php:37
+msgid "Leave a comment"
+msgstr "Leave a comment"
+
+#: inc/options-config.php:738
+msgid "Orange"
+msgstr "Orange"
+
+#: inc/options-config.php:828
+msgid "Services Section"
+msgstr "Services Section"
+
+#: inc/options-config.php:832
+msgid "Projects Section"
+msgstr "Projects Section"
+
+#: inc/options-config.php:836
+msgid "Background Image"
+msgstr "Background Image"
+
+#: inc/options-config.php:734
+msgid "Blue"
+msgstr "Blue"
+
+#: inc/options-config.php:733
+msgid "Green"
+msgstr "Green"
+
+#: inc/options-config.php:732
+msgid "Red"
+msgstr "Red"
+
+#: inc/options-config.php:723
+msgid "Primary Color"
+msgstr "Primary Colour"
+
+#: inc/options-config.php:517 inc/options-config.php:523
+msgid "Address"
+msgstr "Address"
+
+#: inc/options-config.php:509 inc/options-config.php:510
+msgid "Personal Portfolio Theme Options"
+msgstr "Personal Portfolio Theme Options"
+
+#: inc/options-config.php:557
+msgid "Header"
+msgstr "Header"
+
+#: inc/options-config.php:137
+msgid "Service"
+msgstr "Service"
+
+#: inc/options-config.php:168 inc/options-config.php:486
+msgid "Icon"
+msgstr "Icon"
+
+#: inc/options-config.php:175 inc/options-config.php:493
+msgid "Color"
+msgstr "Colour"
+
+#: inc/options-config.php:80 inc/options-config.php:305
+#: inc/options-config.php:412
+msgid "Image"
+msgstr "Image"
+
+#: inc/options-config.php:74 inc/options-config.php:915
+msgid "Link"
+msgstr "Link"
+
+#: inc/options-config.php:68 inc/options-config.php:111
+#: inc/options-config.php:210 inc/options-config.php:246
+#: inc/options-config.php:282 inc/options-config.php:335
+#: inc/options-config.php:468 inc/options-config.php:897
+msgid "Description"
+msgstr "Description"
+
+#: inc/options-config.php:62 inc/options-config.php:105
+#: inc/options-config.php:204 inc/options-config.php:240
+#: inc/options-config.php:276 inc/options-config.php:329
+#: inc/options-config.php:460 inc/options-config.php:462
+#: inc/options-config.php:891
+msgid "Title"
+msgstr "Title"
+
+#: inc/options-config.php:12 inc/options-config.php:92
+#: inc/options-config.php:198 inc/options-config.php:264
+#: inc/options-config.php:323 inc/options-config.php:381
+#: inc/options-config.php:879
+msgid "Enable this section"
+msgstr "Enable this section"
+
+#: inc/options-config.php:18 inc/options-config.php:98
+#: inc/options-config.php:216 inc/options-config.php:288
+#: inc/options-config.php:341
+msgid "Quantity"
+msgstr "Quantity"
+
+#: inc/options-config.php:57 inc/options-config.php:824
+msgid "Slider"
+msgstr "Slider"
+
+#: inc/admin/custom-controls.php:105
+msgid "Upgrade Now"
+msgstr "Upgrade Now"
+
+#: inc/admin/class.customizer-api-wrapper.php:88
+msgid "Upgrade to Pro"
+msgstr "Upgrade to Pro"
+
+#: inc/extras.php:53
+msgid "Page %s"
+msgstr "Page %s"
+
+#: header.php:62
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Skip to content"
+
+#: functions.php:121 functions.php:135
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:53
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#: content-page-nontitle.php:14 content-page.php:24 content-single.php:27
+#: content.php:35 image.php:69
+msgid "Pages:"
+msgstr "Pages:"
+
+#: content-page.php:16 inc/template-tags.php:33 inc/template-tags.php:197
+#: inc/template-tags.php:210
+msgid "Edit"
+msgstr "Edit"
+
+#: content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+
+#: content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+
+#: content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#: comments.php:86
+msgid "Cancel reply"
+msgstr "Cancel reply"
+
+#: content-none.php:14
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: comments.php:87 inc/options-config.php:861
+msgid "Post Comment"
+msgstr "Post Comment"
+
+#: comments.php:78
+msgid "Website"
+msgstr "Website"
+
+#: comments.php:77 inc/options-config.php:529 inc/options-config.php:535
+msgid "Email"
+msgstr "Email"
+
+#: comments.php:76
+msgid "Name"
+msgstr "Name"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: comments.php:34 comments.php:54
+msgid "Newer Comments"
+msgstr "Newer Comments"
+
+#: comments.php:33 comments.php:53
+msgid "Older Comments"
+msgstr "Older Comments"
+
+#: comments.php:31 comments.php:50
+msgid "Comment navigation"
+msgstr "Comment navigation"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! That page can&rsquo;t be found."
+
+#. Theme URI of the plugin/theme
+msgid "http://dinozoom.com/themes/personal-portfolio-wordpress-themes/"
+msgstr "http://dinozoom.com/themes/personal-portfolio-wordpress-themes/"
+
+#. Author of the plugin/theme
+msgid "Dinozoom"
+msgstr "Dinozoom"
+
+#. Author URI of the plugin/theme
+msgid "http://dinozoom.com/"
+msgstr "http://dinozoom.com/"

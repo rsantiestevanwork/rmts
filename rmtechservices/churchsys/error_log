@@ -1,0 +1,24 @@
+[22-Jun-2016 15:25:20 GMT] PHP Fatal error:  Call to undefined function mysqli_init() in /home/diplomat213/public_html/bcncard/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[22-Jun-2016 15:33:06 GMT] PHP Fatal error:  Call to undefined function mysqli_init() in /home/diplomat213/public_html/bcncard/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[22-Jun-2016 15:38:25 GMT] PHP Fatal error:  Call to undefined function mysqli_init() in /home/diplomat213/public_html/bcncard/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[22-Jun-2016 15:41:27 GMT] PHP Fatal error:  Call to undefined function mysqli_init() in /home/diplomat213/public_html/bcncard/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[22-Jun-2016 15:41:32 GMT] PHP Fatal error:  Call to undefined function mysqli_init() in /home/diplomat213/public_html/bcncard/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[22-Jun-2016 15:41:33 GMT] PHP Fatal error:  Call to undefined function mysqli_init() in /home/diplomat213/public_html/bcncard/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[22-Jun-2016 15:41:34 GMT] PHP Fatal error:  Call to undefined function mysqli_init() in /home/diplomat213/public_html/bcncard/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[22-Jun-2016 15:48:07 GMT] PHP Fatal error:  Call to undefined function mysqli_init() in /home/diplomat213/public_html/bcncard/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[22-Jun-2016 15:48:42 GMT] PHP Fatal error:  Call to undefined function mysqli_init() in /home/diplomat213/public_html/bcncard/system/database/drivers/mysqli/mysqli_driver.php on line 136
+[08-Jul-2016 11:11:19 GMT] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/diplomat213/public_html/bcncard/application/models/Mimagecard.php on line 28
+[08-Jul-2016 11:12:13 GMT] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) in /home/diplomat213/public_html/bcncard/application/models/Mimagecard.php on line 28
+[08-Jul-2016 11:54:50 GMT] PHP Fatal error:  Function name must be a string in /home/diplomat213/public_html/bcncard/application/controllers/Datacard.php on line 103
+[08-Jul-2016 11:58:12 GMT] PHP Fatal error:  Function name must be a string in /home/diplomat213/public_html/bcncard/application/controllers/Datacard.php on line 103
+[08-Jul-2016 12:00:45 GMT] PHP Fatal error:  Function name must be a string in /home/diplomat213/public_html/bcncard/application/controllers/Datacard.php on line 103
+[08-Jul-2016 12:43:51 GMT] PHP Fatal error:  Function name must be a string in /home/diplomat213/public_html/bcncard/application/controllers/Datacard.php on line 103
+[08-Jul-2016 14:11:36 GMT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/diplomat213/public_html/bcncard/application/controllers/Datacard.php on line 104
+[08-Jul-2016 14:16:12 GMT] PHP Fatal error:  Function name must be a string in /home/diplomat213/public_html/bcncard/application/controllers/Datacard.php on line 109
+[08-Jul-2016 16:58:18 GMT] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/diplomat213/public_html/bcncard/application/controllers/Datacard.php on line 103
+[08-Jul-2016 16:59:18 GMT] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/diplomat213/public_html/bcncard/application/controllers/Datacard.php on line 103
+[11-Jul-2016 13:18:51 GMT] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/diplomat213/public_html/bcncard/application/controllers/Datacard.php on line 103
+[12-Jul-2016 15:10:52 GMT] PHP Fatal error:  Call to undefined function mb_strtolower() in /home/diplomat213/public_html/bcncard/application/libraries/Wkhtmltopdf.php on line 663
+[12-Jul-2016 15:12:36 GMT] PHP Fatal error:  Call to undefined function mb_strtolower() in /home/diplomat213/public_html/bcncard/application/libraries/Wkhtmltopdf.php on line 663
+[12-Jul-2016 15:22:37 GMT] PHP Fatal error:  Call to undefined function generateRandomForLocalLayout() in /home/diplomat213/public_html/bcncard/application/controllers/Datacard.php on line 141
+[12-Jul-2016 15:42:16 GMT] PHP Fatal error:  Function name must be a string in /home/diplomat213/public_html/bcncard/application/controllers/Datacard.php on line 139

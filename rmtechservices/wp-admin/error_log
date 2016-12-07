@@ -1,0 +1,2 @@
+[28-Nov-2016 13:53:09 UTC] PHP Fatal error:  Call to a member function getWlsShortCodeList() on a non-object in /home/rmtechservices/public_html/wp-content/plugins/wp-services-showcase/lib/widgets/rtWPSWidget.php on line 63
+[28-Nov-2016 14:53:41 UTC] PHP Fatal error:  Call to a member function getWlsShortCodeList() on a non-object in /home/rmtechservices/public_html/wp-content/plugins/wp-services-showcase/lib/widgets/rtWPSWidget.php on line 63
